@@ -18,6 +18,9 @@ hobloh: "ke Mang Uing bro!!!!"
 """
 
 text8 = r'C:\nyoto' # raw string --> bagaimanakah hasil ini??
+"""Hasilnya berupa string yang sesuai dengan apa yang dituliskan.
+Menekan arti aktual karakter Escape, kode \n diabaikan.
+"""
 
 print(text8)
 print(5*"wk")
